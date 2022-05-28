@@ -2,10 +2,10 @@
 This program renders four different random passwords for use.
 
 **before clicking** *generatepassword*
-![image1](ranpass1.png)
+![image1](ranpass1.PNG)
 **after clicking** *generatepassword*
-![image2](ranpass2.png)
+![image2](ranpass2.PNG)
 
 ## Check it out live
-[randompasswordgenerator](https://www.example.com)
+[randompasswordgenerator](https://passwordgeneratorbyezeigbo.netlify.app)
 
